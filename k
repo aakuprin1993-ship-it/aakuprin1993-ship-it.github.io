@@ -1,1 +1,1 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJldugBiUTcr4ccquf31bk+PU7qXo84i6bFrw6H+Pwtw aakup@aakuprin
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGPNMwIBp7N7XbOGkNsiZfbzCdcpNlwQRD/6QW5EFsYJ ai-assistant
